@@ -1,0 +1,9 @@
+[2021-06-22 14:48:02,006-1624344482.006411]:- __init__.py] - ERROR: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "E:/MyWork/数据方舟/Acos007/Acos007_Test/main.py", line 12, in main
+    getattr(test_all_method, i)()
+  File "E:\MyWork\数据方舟\Acos007\Acos007_Test\test_api\handle\handle_center.py", line 23, in make_test_request
+    base_request.request(url=url, request_json=data)
+  File "E:\MyWork\数据方舟\Acos007\Acos007_Test\test_api\base_request.py", line 28, in request
+    status = json_data.get("status")
+AttributeError: 'NoneType' object has no attribute 'get'

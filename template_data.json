@@ -1,0 +1,17 @@
+{
+    "data": {
+        "code": "70883",
+        "createdAt": 1624266949.1078897,
+        "createdBy": "xPgTbISi3VemqrDVbd6T",
+        "disabled": false,
+        "expireAt": 1625130949.087926,
+        "freezed": false,
+        "max": 10,
+        "productId": "972e9616-4065-4ee0-88a3-8fddbb1caedf",
+        "redeemId": "0f92113a-6a07-4d25-94fd-06355e37dd71",
+        "used": 0,
+        "usedByClients": [],
+        "usedByUsers": []
+    },
+    "status": true
+}
